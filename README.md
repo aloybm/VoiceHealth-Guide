@@ -1,5 +1,5 @@
 # VoiceHealth Guide - Bangkit Academy Capstone App
-The VoiceHealth Guide successfully bridges the gap between healthcare providers and patients. especially in underserved areas. By automating the transcription and analysis of clinical conversations. it allows for faster and more accurate medical decision-making. The deployment of our solution on the Google Cloud Platform ensures scalability and reliability. while the mobile application provides an accessible platform for users to receive timely medication recommendations based on their symptoms. This project exemplifies how technology can be harnessed to improve healthcare outcomes and accessibility. 
+The VoiceHealth Guide is an innovative healthcare solution designed to enhance the accuracy and efficiency of diagnosing and treating patients using speech recognition technology. This project addresses the critical need for timely and accurate medical information, particularly in areas with limited access to healthcare services. By leveraging advancements in machine learning, mobile development, and cloud computing, our application ensures that healthcare providers can transcribe and analyze clinical conversations accurately. This leads to improved patient outcomes and reduced medical errors.
 
 ## Features 
 - Login and Register
