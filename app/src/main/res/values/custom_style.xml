@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="profile_shape">
+        <item name="cornerRadius">60dp</item>
+    </style>
+    <style name="circle">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="image_news">
+        <item name="cornerSizeBottomLeft">100%</item>
+        <item name="cornerSizeBottomRight">100%</item>
+        <item name="cornerSizeTopLeft">0%</item>
+        <item name="cornerSizeTopRight">0%</item>
+    </style>
+</resources>

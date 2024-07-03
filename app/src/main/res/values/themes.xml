@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.VoiceHealthGuide" parent="Theme.Material3.DayNight.NoActionBar">
+
+
+    </style>
+    <style name="BottomNavigationViewStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconSize">40dp</item>
+    </style>
+    <style name="Theme.VoiceHealthGuide" parent="Base.Theme.VoiceHealthGuide" />
+</resources>

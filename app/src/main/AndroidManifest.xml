@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VoiceHealthGuide"
+        tools:targetApi="31">
+        <activity
+            android:name=".view.forgotpassword.emailverification.EmailVerificationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.forgotpassword.resetpassword.ResetPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.forgotpassword.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.detail.HistoryDrugsDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.detail.HistoryDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.detail.DrugDetailActivity"
+            android:exported="false"
+            android:theme="@style/Theme.VoiceHealthGuide" />
+        <activity
+            android:name=".view.history.HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.news.NewsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.profile.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.welcome.WelcomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.register.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.login.LoginActivity"
+            android:exported="true">
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="https" />
+                <data android:host="voicehealth-backend-lnk4vu7nua-et.a.run.app" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.main.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

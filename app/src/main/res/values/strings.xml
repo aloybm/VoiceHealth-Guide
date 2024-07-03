@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">VoiceHealth Guide</string>
+    <string name="welcome">WELCOME</string>
+    <string name="email_id">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Lupa Password?</string>
+    <string name="login">Masuk</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="sign_up_text">Belum punya akun?</string>
+    <string name="line">OR</string>
+    <string name="sign_up">Daftar</string>
+    <string name="register">Daftar</string>
+    <string name="good_morning">Selamat Pagi</string>
+    <string name="good_afternoon">Selamat Siang</string>
+    <string name="good_evening">Selamat Malam</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="register_text">Sudah daftar?</string>
+    <string name="sign_in">Masuk</string>
+    <string name="name_required_error">Nama tidak boleh kosong.</string>
+    <string name="invalid_email_error">Alamat email tidak valid.</string>
+    <string name="invalid_password_error">Kata sandi harus memiliki minimal 8 karakter.</string>
+    <string name="email_required">Email tidak boleh kosong</string>
+    <string name="password_required">Password tidak boleh kosong</string>
+    <string name="invalid_input_error">Input tidak valid</string>
+    <string name="login_succes_dialog">Anda berhasil login</string>
+    <string name="title">Dialog with hero icon</string>
+    <string name="supporting_text">A dialog is a type of modal window that appears in front of app content to provide critical information, or ask for a decision.</string>
+    <string name="cancel">Cancel</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="profile_image">profile image</string>
+    <string name="action_text">Ayo cari obatmu dengan suara!</string>
+    <string name="news">News</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="title_card">Title</string>
+    <string name="example_text">Etiam mollis metus non purus faucibus sollicitudin. Pellentesque sagittis mi. Integer.</string>
+    <string name="logout">Logout</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="change_profile_picture">Change Profile Picture</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="date">24/7/2024</string>
+    <string name="history_text">saya sakit batuk berikan saya obat</string>
+    <string name="greeting_history">Mau lihat obat yang baru kamu keluhkan?</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="no_text_recognized">No text recognized!</string>
+    <string name="translate">Translate</string>
+    <string name="downloading_model_fail">Model gagal diunduh</string>
+    <string name="username_required_error">Username harus diisi</string>
+    <string name="username_no_spaces_error">Username tidak boleh mengandung spasi</string>
+
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="detail">Detail</string>
+    <string name="detail_text">Kamu bisa baca detail dari obat dibawah ini ya</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nama_obat">NATURE’S PLUS B COMPLEX 60 TABLET</string>
+    <string name="detail_product">Detail Product</string>
+    <string name="greeting_news">Ayo baca berita kesehatan terkini!</string>
+    <string name="news_title">Berita</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="text_forgot_password">Tenang, itu sering terjadi. Silahkan masukkan email yang kamu link dengan akunmu saat ini.</string>
+    <string name="kirim">Kirim</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="text_reset_password">Silahkan ganti passwordmu</string>
+    <string name="reset">Reset</string>
+    <string name="silahkan_cek_email_anda">Silahkan cek email Anda!</string>
+    <string name="belum_terkirim">Belum terkirim?</string>
+    <string name="nama_penyakit">Nama Penyakit</string>
+    <string name="disease_name_format">Anda terkena penyakit "%s"</string>
+    <string name="katakan_keluhanmu">Katakan keluhanmu</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="welcome_text">Kami sangat senang Anda bergabung dan siap memberikan pengalaman terbaik untuk Anda</string>
+    <string name="reset_password_dialog">Anda berhasil mengganti password</string>
+    <string name="email_verification_dialog">Permintaan ganti password sudah dikirimkan ke Email Anda</string>
+</resources>
