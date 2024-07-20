@@ -9,7 +9,7 @@ The VoiceHealth Guide is an innovative healthcare solution designed to enhance t
 - Prediciton History 
 
 ## Screenshots
-![image](https://github.com/aloybm/VoiceHealth-Guide/assets/100351038/c466f249-17e0-4ae7-be82-dc6ced8d1e93)
+![image](https://github.com/user-attachments/assets/5fd9df52-df10-494c-a4fe-4329e1f6da5a)
 
 ## Getting Started 
 - Clone this repository
